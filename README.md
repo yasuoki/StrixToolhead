@@ -3,6 +3,10 @@
 <img src="img/pic2.jpg" width="70%"><br>
 <img src="img/pic3.jpg" width="70%"><br>
 
+# Caution
+This toolhead is still under development and has not yet been tested for stability.   
+I am trying to design a better tool head, but something could go wrong and your 3D printer could break.
+
 # Features
 - Short distance from the linear rail to the nozzle.
 - Light weight. (290g or less)
