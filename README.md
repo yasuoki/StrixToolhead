@@ -4,10 +4,10 @@
 <img src="img/pic3.jpg" width="70%"><br>
 
 # Features
-- Shortening the distance from the linear rail to the nozzle reduces the effects of vibration and play.
-- Light weight (290g or less) improves speed and accuracy.
-- Optimized airflow improves hot end cooling.
-- 5020 blower fan improves parts cooling.
+- Short distance from the linear rail to the nozzle.
+- Light weight. (290g or less)
+- Optimized airflow.
+- 5020 blower fan. (parts cooling)
 - Built-in retractable Z-probe.
 
 # Parts Printing
