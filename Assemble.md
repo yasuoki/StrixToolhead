@@ -41,6 +41,7 @@
 
 ## Wirering
 <img src="img/fig26.jpg" width="70%"><br>
+<img src="img/fig27.jpg" width="70%"><br>
 
 ## Configuration
 ~~~
