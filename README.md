@@ -5,7 +5,7 @@
 
 # Caution
 This toolhead is still under development and has not yet been tested for stability.   
-I am trying to design a better tool head, but something could go wrong and your 3D printer could break.
+I am trying to design a better toolhead, but something could go wrong and your 3D printer could break.
 
 # Features
 - Short distance from the linear rail to the nozzle.
