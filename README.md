@@ -14,6 +14,7 @@ I am trying to design a better toolhead, but something could go wrong and your 3
 - Optimized airflow.
 - 5020 blower fan. (parts cooling)
 - Built-in retractable Z-probe.
+- Silent
 
 # Parts Printing
 - Layer height 0.2mm, Extrusion width 0.4mm, Wall count 4, Top/Bottom layers 8, Infill 40%.
