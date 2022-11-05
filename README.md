@@ -21,7 +21,6 @@ I am trying to design a better toolhead, but something could go wrong and your 3
 - Lightness and strength are prioritized over ease of printing, so most parts require support.
 - Select ServoHorn2.2gA(B).stl and ServoHorn2gA(B).stl according to your servo motor
 - Servo horns A and B differ in thickness by 0.2 mm. Select the one that fits.
-- Body parts(BodyLeft.stl, BodyRight.stl) are difficult to print, so some are pre-supported. Choose your preference.
 
 # BOM
 - M2.5 x 6mm BHCS x4 (for Rapido hotend)
