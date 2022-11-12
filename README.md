@@ -12,7 +12,7 @@ I am trying to design a better toolhead, but something could go wrong and your 3
 - Short distance from the linear rail to the nozzle.
 - Light weight. (290g or less)
 - Optimized airflow.
-- 5020 blower fan. (parts cooling)
+- 5020 parts cooling fan.
 - Built-in retractable Z-probe.
 - Silent
 
