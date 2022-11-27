@@ -34,10 +34,10 @@ I am trying to design a better toolhead, but something could go wrong and your 3
 - M3 x 6mm Set Screw x1
 - M3 x 4mm Insert Nut x12
 - 3mm(ID) x 5mm(OD) x 5mm(L) Sleeve Bearing(Oilless Bushings) x4
-- 3mm(D) x 80-83mm(L) Stainless Steel Shaft x1
+- 3mm(D) x 82mm(L) Stainless Steel Shaft x1
 - 0.8mm(D) x 6mm(L) Piano wire x1 
 - 2mm(ID) E-Clip x2
-- 3mm(ID) x 25mm(L) Compression Spring x1
+- 4mm(OD) x 0.4mm(RD) x 25mm(L) Compression Spring x1
 - 26mm(L) PTFE Tube x1
 - 7mm x 20mm x 0.5mm Carbon fiber plate x1 (Option)
 - Micro Switch (OMRON D2F-01F Low operating force 0.74 N) x1
