@@ -27,7 +27,7 @@ I am trying to design a better toolhead, but something could go wrong and your 3
 - M3 x 8mm BHCS x4 (for linear rail)
 - M3 x 10mm BHCS x7
 - M3 x 25mm BHCS x2
-- M3 x 35mm BHCS x2
+- M3 x 35mm SHCS x2
 - M2 x 10mm Self-Tapping Screw x2
 - M1.7 x 3mm Flat Head Screw x1 (for servo horn)
 - M1.7 x 5mm x2 (for servo mount)
