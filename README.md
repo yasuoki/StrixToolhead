@@ -17,6 +17,23 @@ I am trying to design a better toolhead, but something could go wrong and your 3
 - Built-in retractable Z-probe.
 - Silent
 
+# Probe Accuracy
+~~~
+PROBE_ACCURACY
+PROBE_ACCURACY at X:150.000 Y:150.000 Z:5.133 (samples=10 retract=3.000 speed=10.0 lift_speed=10.0)
+probe at 150.000,150.000 is z=2.132250
+probe at 150.000,150.000 is z=2.133500
+probe at 150.000,150.000 is z=2.134437
+probe at 150.000,150.000 is z=2.134437
+probe at 150.000,150.000 is z=2.134750
+probe at 150.000,150.000 is z=2.134750
+probe at 150.000,150.000 is z=2.133812
+probe at 150.000,150.000 is z=2.134437
+probe at 150.000,150.000 is z=2.133812
+probe at 150.000,150.000 is z=2.134750
+probe accuracy results: maximum 2.134750, minimum 2.132250, range 0.002500, average 2.134094, median 2.134437, standard deviation 0.000745
+~~~
+
 # Parts Printing
 - Layer height 0.2mm, Extrusion width 0.4mm, Wall count 4, Top/Bottom layers 8, Infill 40%.
 - Lightness and strength are prioritized over ease of printing, so most parts require support.
