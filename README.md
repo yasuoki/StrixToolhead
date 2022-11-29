@@ -1,15 +1,15 @@
-# Strix Tool Head
+# Strix Tool Head for VORON TRIDENT
 <img src="img/pic1.png" width="70%"><br>
 <img src="img/pic2.jpg" width="70%"><br>
 <img src="img/pic3.jpg" width="70%"><br>
 [![](https://img.youtube.com/vi/hcAJJV4R7ww/0.jpg)](https://www.youtube.com/watch?v=hcAJJV4R7ww)<br>
 [![](https://img.youtube.com/vi/_O_6WqJrIEA/0.jpg)](https://www.youtube.com/watch?v=_O_6WqJrIEA)
 
-# Caution
+## Caution
 This toolhead is still under development and has not yet been tested for stability.   
 I am trying to design a better toolhead, but something could go wrong and your 3D printer could break.
 
-# Features
+## Features
 - Short distance from the linear rail to the nozzle.
 - Light weight. (290g or less)
 - Optimized airflow.
@@ -17,7 +17,7 @@ I am trying to design a better toolhead, but something could go wrong and your 3
 - Built-in retractable Z-probe.
 - Silent
 
-# Probe Accuracy
+## Probe Accuracy
 ~~~
 PROBE_ACCURACY
 PROBE_ACCURACY at X:150.000 Y:150.000 Z:5.133 (samples=10 retract=3.000 speed=10.0 lift_speed=10.0)
@@ -34,13 +34,13 @@ probe at 150.000,150.000 is z=2.134750
 probe accuracy results: maximum 2.134750, minimum 2.132250, range 0.002500, average 2.134094, median 2.134437, standard deviation 0.000745
 ~~~
 
-# Parts Printing
+## Parts Printing
 - Layer height 0.2mm, Extrusion width 0.4mm, Wall count 4, Top/Bottom layers 8, Infill 40%.
 - Lightness and strength are prioritized over ease of printing, so most parts require support.
 - Select ServoHorn2.2gA(B).stl and ServoHorn2gA(B).stl according to your servo motor
 - Servo horns A and B differ in thickness by 0.2 mm. Select the one that fits.
 
-# BOM
+## BOM
 - M2.5 x 6mm BHCS x4 (for Rapido hotend)
 - M3 x 8mm BHCS x4 (for linear rail)
 - M3 x 10mm BHCS x7
