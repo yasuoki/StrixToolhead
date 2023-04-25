@@ -59,7 +59,7 @@ probe accuracy results: maximum 2.134750, minimum 2.132250, range 0.002500, aver
 - 26mm(L) PTFE Tube x1
 - 7mm x 20mm x 0.5mm Carbon fiber plate x1 (Option)
 - Micro Switch (OMRON D2F-01F Low operating force 0.74 N) x1
-- Servo Motor 2.2g(Rrlandoo AS0022) or 2g(Dspower DSM005) x1
+- Servo Motor 2.2g(Rrlandoo AS0022) or 2g(Dspower DS-M005) x1
 - 5020 Blower Fan (Sunon GB1205PKV3-8AY or GDSTIME GDB5030) x1
 - 4010 Axial Fan x1
 - Phaetus Rapido HF x1
